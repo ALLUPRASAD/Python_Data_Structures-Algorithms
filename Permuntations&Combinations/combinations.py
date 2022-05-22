@@ -13,7 +13,7 @@ n = len(string)
 a = list(string)
 permut(a, 0, n-1)  
 
-
+#2nd aproach
 # write a code to Print all combinations of x 
 # output example: rkishna,shnairk
 
