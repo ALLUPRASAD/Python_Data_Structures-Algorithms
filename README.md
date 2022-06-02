@@ -1,30 +1,31 @@
 # Python_DataStructures-Algo
 
-Important leetcode questons 
+# Important leetcode questons 
 
 # Two Pointers
 
-75 Sort Colors
-80 Remove Duplicates from Sorted Array II
-88 Merge Sorted Array
-457 Circular Array Loop
-713 Subarray Product Less Than K
-845 Longest Mountain in Array
-904 Fruit into baskets
-925 Long Pressed name
-986 Interval list intersections
-Binary Search
-33 Search in rotated sorted array
-69 Sqrt(x)
-153 Find min in rotated sorted array
-349 Intersection of two arrays
-441 Arranging coins
-475 Heaters
-658 Find K closest elements
-911 Online Election
-Divide two integers
-Find in sorted array
-Search in rotated array
+  75 Sort Colors
+  80 Remove Duplicates from Sorted Array II
+  88 Merge Sorted Array
+  457 Circular Array Loop
+  713 Subarray Product Less Than K
+  845 Longest Mountain in Array
+  904 Fruit into baskets
+  925 Long Pressed name
+  986 Interval list intersections
+  Binary Search
+  33 Search in rotated sorted array
+  69 Sqrt(x)
+  153 Find min in rotated sorted array
+  349 Intersection of two arrays
+  441 Arranging coins
+  475 Heaters
+  658 Find K closest elements
+  911 Online Election
+  Divide two integers
+  Find in sorted array
+  Search in rotated array
+  
 # Hashmap
 
 463 Island Perimeter
