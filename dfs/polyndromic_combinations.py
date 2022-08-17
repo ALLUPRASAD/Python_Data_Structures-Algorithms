@@ -19,3 +19,5 @@ class Solution(object):
                 dfs(res,ch+resul)
         dfs(s,'')
         return set(self.results)
+    
+#2nd method with better time complexity
