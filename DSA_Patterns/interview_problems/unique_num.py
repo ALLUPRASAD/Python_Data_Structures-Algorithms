@@ -1,4 +1,4 @@
-# xor has assosiative property not required sorting 1^1=0,1^2=2^1,0^1=0
+# xor has associative property not required sorting 1^1=0,1^2=2^1,0^1=0.
 def unique(x):
     ans=0
     for i in range(len(x)):
