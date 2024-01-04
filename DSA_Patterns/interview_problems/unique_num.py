@@ -8,7 +8,7 @@ def unique(x):
 
 if __name__ == "__main__":
     x=[1,2,1,2,7,8,9,7,9,9,9,9]
-    d=unique(x)
-    print(d)
+    dd=unique(x)
+    print(dd)
 
 
