@@ -18,16 +18,16 @@ def spiral_order(matrix):
         right -= 1
 
         # Traverse left (if any elements remain)
-        if top <= bottom:
-            for i in range(right, left - 1, -1):
-                result.append(matrix[bottom][i])
-            bottom -= 1
+        # if top <= bottom:
+        for i in range(right, left - 1, -1):
+            result.append(matrix[bottom][i])
+        bottom -= 1
 
         # Traverse up (if any elements remain)
-        if left <= right:
-            for i in range(bottom, top - 1, -1):
-                result.append(matrix[i][left])
-            left += 1
+        # if left <= right:
+        for i in range(bottom, top - 1, -1):
+            result.append(matrix[i][left])
+        left += 1
 
     return result
 
