@@ -7,13 +7,12 @@ for i in range(m):
         if matrix[i][j]==0:
             filt.append([i,j])
 for x,y in filt:
-    print(x,y)
     for row in range(n):
-        print(x,row)
-        matrix[x][row]=0
-    for col in range(m):
-        print(col,y)
-        matrix[col][y]=0
-print(matrix)
+        print(1^row)
+#         matrix[x][row]=0
+#     for col in range(m):
+#         print(col,y)
+#         matrix[col][y]=0
+# print(matrix)
 
 
